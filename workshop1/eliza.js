@@ -40,7 +40,7 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x name ~*y": [
+  "~*x feel ~*y": [
     "JUSTICE FOR MY MAIN MAN HARMABE",
   ],
   "~*x sorry ~*y": [
